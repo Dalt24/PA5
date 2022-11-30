@@ -1,0 +1,22 @@
+d6e5e14f-977f-4285-99fc-cef4489c4a8d#Primal Fear#Mystery#trueInStock
+181a737f-256e-477b-b75c-16bfb7199dfa#Darkman#Horror#trueInStock
+18fca418-9e07-46fd-8b38-a77ffb6d36c0#Neighbors#Comedy#trueInStock
+b03e400c-8cc1-4798-b8b6-a9f448c554f3#Let's Be Cops#Comedy#trueInStock
+3d6b68eb-fcb6-45a2-9019-c2a179d4123d#SpiderMan#TobyIsBetter#trueInStock
+74e49b4b-0b76-48c1-94a5-d0012cc61793#Men In Black#Action#trueInStock
+809a0a29-c207-4339-ac18-7b1685438816#22 Jump Street#Comedy#trueInStock
+ee245e74-eec6-4591-89dd-440137fa10b8#IT#Horror#trueInStock
+e4e1b69d-0c34-4c19-9f0d-c3182212cbb2#BeetleJuice#Comedy#trueInStock
+e862209e-cfbe-4972-aa76-c98a72c45e1c#Being John Malkovich#Comedy#trueInStock
+0840d72c-af06-4db3-a119-13772600f421#Psycho#Horror#trueInStock
+176ffd42-92d0-4d5e-9cdb-c851601bf250#Salvador#Thriller#trueInStock
+4c15ed66-0e54-4413-b9a6-0fec2d2dda8e#Grown Ups#Comedy#trueInStock
+1a7d129d-d6c3-4c20-b2cb-fa9c82c625a1#Grown Ups#Comedy#trueInStock
+df1b96d3-6939-4145-b478-a291074237a1#Grown Ups#Comedy#trueInStock
+78238fb5-1663-4294-8c82-6c10d97a16c9#Avengers#Action#trueInStock
+b83c0ded-ac08-42c0-8075-00a1ac85102a#Jaws#Horror#trueInStock
+5c62213b-a71d-47e0-835b-9f5328250478#The Matrix#Action#trueInStock
+d1ab5b91-0f2c-4e8c-be3a-d3844c491380#Logan#Action#falseOutStock
+3680bbbd-f1b3-4c4a-8a48-02abebcdfe67#Happy Gilmore#Comedy#trueInStock
+7d7c3abb-4a20-459d-a99f-eaa0dffbd71f#Jeffs Jolly Jackpot#MIS#falseOutStock
+ffb31c79-614e-49b1-96e2-98577b23e658#Annabelle#Horror#trueInStock

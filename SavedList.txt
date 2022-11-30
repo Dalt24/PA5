@@ -1,0 +1,22 @@
+3d6b68eb-fcb6-45a2-9019-c2a179d4123d#SpiderMan#TobyIsBetter#trueInStock
+95ca3a6b-878c-4b06-8fe3-64e1a6316e87#Hop#Family#trueInStock
+176ffd42-92d0-4d5e-9cdb-c851601bf250#Salvador#Picture?#trueInStock
+d6e5e14f-977f-4285-99fc-cef4489c4a8d#Primal Fear#Mystery#trueInStock
+82a52c8b-c3ae-484c-bb2a-cd5ea999f153#The Truman Show#Comedy#falseOutStock
+e862209e-cfbe-4972-aa76-c98a72c45e1c#Being John Malkovich#Comedy#trueInStock
+19cc70e1-859f-46f4-87df-374a42268336#Christmas Vacation#Comedy#trueInStock
+18fca418-9e07-46fd-8b38-a77ffb6d36c0#Neighbors#Comedy#trueInStock
+7219d661-2a5b-480a-9843-649869261041#The Longest Yard#Comedy#trueInStock
+014260f2-762d-4697-9ab3-64bda6077c35#Dinner for Schmucks#Comedy#trueInStock
+809a0a29-c207-4339-ac18-7b1685438816#22 Jump Street#Comedy#trueInStock
+97eb88ca-71dd-47e6-92e5-6e36c98d3e01#ZombieLand#Comedy#trueInStock
+0840d72c-af06-4db3-a119-13772600f421#Psycho#Horror#trueInStock
+b03e400c-8cc1-4798-b8b6-a9f448c554f3#Let's Be Cops#Comedy#trueInStock
+181a737f-256e-477b-b75c-16bfb7199dfa#Darkman#Horror#trueInStock
+ffb31c79-614e-49b1-96e2-98577b23e658#Annabelle#Horror#trueInStock
+4c454770-5e39-44fa-a6ea-0ecb836e58af#Grown Ups#Comedy#trueInStock
+d538225e-0050-4d40-92c5-e600a848c519#Grown Ups#Family#trueInStock
+44c47923-d76a-4201-9322-ffa90ab2de2f#Happy#Happy#trueInStock
+3680bbbd-f1b3-4c4a-8a48-02abebcdfe67#Happy Gilmore#Comedy#trueInStock
+7d0d655e-7919-46fa-ac15-b0d6d820b96f#Grown Ups#Comedy#trueInStock
+6aa983e8-a633-4203-ac1c-056e85614973#Grown Ups#Comedy#trueInStock
