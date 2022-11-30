@@ -3,7 +3,7 @@ using System;
 namespace PA5Test4
 {
     public class Transaction
-    {
+    {// getters and setters for Transaction Class
         public Guid transactionID{get; set;}
         public string customerEmail{get; set;} = "";
         public Guid movieID{get; set;}
